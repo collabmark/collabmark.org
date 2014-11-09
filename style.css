@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+}
+.banner {
+  margin: 4em 0 0 0;
+  padding: 4.5em 0;
+  background: -webkit-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* W3C */
+}
+.banner h1, .banner h2 {
+  max-width: 800px;
+  margin: 0 auto;
+
+  color: #fff;
+}
+.banner h1 {
+  font: 800 5em "merriweather";
+  line-height: 1.2em;
+  text-align: center;
+}
+.banner .tag {
+  margin: 4em 0;
+  text-align: center;
+  border-top: 1px solid #fff;
+}
+.banner p {
+  width: 500px;
+  margin: auto;
+  font: 300 1.5em "open sans";
+  position: relative;
+  top: -1.2em;
+  text-align: center;
+  color: #3A6073;
+  padding: 0.5em;
+  background: #fff;
+  border-radius: 25px;
+}
+.banner a {
+  color: #3A6073;
+}
+sup {
+  font: 300 0.5em "open sans";
+}
+.container {
+  background: #f0f0f0;
+  padding: 4em 0;
+  margin: 0;
+}
+.container p {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+.footer {
+  padding: 3.5em;
+}
+.footer ul, p {
+  margin-left: 75%;
+}
+p, li {
+  font-family: 'Slabo 13px', serif;
+  list-style: none;
+  line-height: 1.7em;
+}
+a {
+  color: #007DBB;
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+a:hover {
+  color: red;
+}
