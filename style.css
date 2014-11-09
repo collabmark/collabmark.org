@@ -12,6 +12,7 @@ body {
 }
 .banner h1, .banner h2 {
   max-width: 800px;
+  min-width: 650px;
   margin: 0 auto;
 
   color: #fff;
@@ -27,7 +28,8 @@ body {
   border-top: 1px solid #fff;
 }
 .banner p {
-  width: 500px;
+  max-width: 500px;
+  min-width: 650px;
   margin: auto;
   font: 300 1.5em "open sans";
   position: relative;
@@ -51,6 +53,7 @@ sup {
 }
 .container p {
   max-width: 800px;
+  min-width: 650px;
   margin: 0 auto;
   text-align: center;
 }
@@ -58,7 +61,7 @@ sup {
   padding: 3.5em;
 }
 .footer ul, p {
-  margin-left: 75%;
+  margin-left: 65%;
 }
 p, li {
   font-family: 'Slabo 13px', serif;
