@@ -1,6 +1,19 @@
 body {
   margin: 0;
 }
+p, li {
+  font-family: 'Slabo 13px', serif;
+  list-style: none;
+  line-height: 1.7em;
+}
+a {
+  color: #007DBB;
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+a:hover {
+  color: red;
+}
 .banner {
   margin: 4em 0 0 0;
   padding: 4.5em 0;
@@ -51,28 +64,29 @@ sup {
   padding: 4em 0;
   margin: 0;
 }
-.container p {
+.container p, 
+.container ul, 
+.container h2, 
+.container h3 {
   max-width: 800px;
   min-width: 650px;
   margin: 0 auto;
-  text-align: center;
+  padding: 0.5em 0.5em;
+}
+.container h2, 
+.container h3 {
+  font: 800 1.5em "merriweather";
+  color: #16222A;
+}
+.container li {
+  margin-left: 2em;
+}
+.container li {
+  list-style: disc;
 }
 .footer {
   padding: 3.5em;
 }
 .footer ul, p {
   margin-left: 65%;
-}
-p, li {
-  font-family: 'Slabo 13px', serif;
-  list-style: none;
-  line-height: 1.7em;
-}
-a {
-  color: #007DBB;
-  text-decoration: none;
-  border-bottom: 1px dotted;
-}
-a:hover {
-  color: red;
 }
