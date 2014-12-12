@@ -23,7 +23,7 @@ a:hover {
   color: red;
 }
 .banner {
-  margin: 4em 0 0 0;
+  margin: 0;
   padding: 2em 0;
   background: -webkit-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Chrome 10+, Saf5.1+ */
   background:    -moz-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* FF3.6+ */
@@ -62,7 +62,9 @@ a:hover {
 }
 .banner p, .banner h2 {
   max-width: 960px;
+  min-width: 600px;
   margin: 1em auto;
+  padding: 0 10px;
   color: #fff;
 }
 .banner a {
@@ -74,6 +76,21 @@ a:hover {
 .banner .tag a {
   color: #3A6073;
 }
+.simple-menu li {
+  display: inline;
+  padding: 0.5em;
+}
+.simple-menu ul {
+  text-align: right;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.simple-menu a {
+  border-bottom: none;
+}
+.simple-menu a:hover {
+  border-bottom: 1px dotted;
+}
 sup {
   font: 300 0.5em "open sans";
 }
@@ -82,11 +99,15 @@ sup {
 }
 .main p, 
 .main ul, 
+.main h1, 
 .main h2, 
 .main h3 {
   max-width: 960px;
+  min-width: 600px;
   margin: 1em auto;
+  padding: 0 10px;
 }
+.main h1, 
 .main h2, 
 .main h3 {
   font: 800 1.5em "merriweather";
@@ -119,11 +140,8 @@ sup {
 .footer {
   padding: 1em;
 }
-.footer ul, .footer p {
-  margin-left: 50%;
-}
-.footer p.legal {
-  max-width: 960px;
+.footer p {
+  max-width: 900px;
   text-align: center;
   margin: 1.5em auto;
   color: #6E6E6E;
@@ -134,6 +152,11 @@ sup {
   background: #fff;
   width: 100%;
   margin-top: 0 !important;
+}
+@media (max-width: 940px) {
+  .anchorific {
+    font-size: 0.8em;
+  }
 }
 .anchorific li {
   display: inline;
@@ -168,5 +191,7 @@ a.anchor:hover {
   width: 100%;
   background: #fff;
   height: 60px;
+  overflow: hidden;
+  min-width: 600px;
   border-bottom: 1px solid #eee;
 }
