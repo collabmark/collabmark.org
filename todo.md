@@ -7,4 +7,4 @@
 - [ ] cleanup list of difficulties
 - [ ] style TM / CM
 - [X] write about page
-- [ ] annoucnement blog
+- [ ] announcement blog
