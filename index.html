@@ -1,38 +1,58 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Collab Mark</title>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:700,300|Slabo+13px|Merriweather:400,900|Fredericka+the+Great' rel='stylesheet' type='text/css'>
-  <link href='style.css' rel='stylesheet' type='text/css'>
+  <meta charset="utf-8">
+  <title>CollabMark</title>
+  <meta name="description" content="A trademark guide for free culture.">
+  <meta name="author" content="Stephen LaPorte and Yana Welinder">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:700,300|Slabo+13px|Merriweather:400,900|Fredericka+the+Great" rel="stylesheet" type="text/css">
+
   <script src="jquery-2.1.1.min.js"></script>
   <script src="anchorific.min.js"></script>
+
   <script>
   $(function() {
-    $('.container').anchorific({anchorText: ''});
+    $('#nav-bar').hide();
+    $(window).scroll(function(){
+      if ($(window).scrollTop() > 600){
+        $('.anchorific').css({'top': 0, 
+                              position: 'fixed', 
+                              left: '50%', 
+                              'margin-left': '-505px'});
+        $('#nav-bar').show();
+      } else {
+        $('.anchorific').css({'top': 'none', position: 'inherit', left: 'none', 'margin-left': 'auto'});
+        $('#nav-bar').hide();
+      }
+    });
+    $('.main').anchorific({anchorText: ' #', spy: true, spyOffset: 300});
   });
   </script>
 
 </head>
 <body>
+<div id="nav-bar">.</div>
   <div class="banner">
-    <h1>Collaborative Mark Policy</h1>
-    <div class="tag"><p><a href="https://cyberlaw.stanford.edu/blog/2014/10/hacking-trademarks-free-culture">Trademark guide for free culture</a></p></div>
-  </div>
-  <div class="container">
-    <p class="anchorific"></p>
-    <div class="section">
+    <h1>CollabMark</h1>
+    <div class="tag"><p>Trademark guide for free culture</p></div>
 
-      <h2>What is a Collaborative Mark?</h2>
-
-      <p>It's a project to provide information about why open source and free culture communities may consider <a href="https://en.wikipedia.org/wiki/Trademark">trademarks</a> and how they can use them. The project includes a <a href="https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md">Collaborative Mark Policy</a> and other <a href="#list-of-hacks">trademark hacks</a> that collaborative communities can adapt to protect their name and logo.</p>
+    <p>The Collaborative Mark project aims to provide information about why open source and free culture communities may consider <a href="https://en.wikipedia.org/wiki/Trademark">trademarks</a> and how they can use them. The project includes a <a href="https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md">Collaborative Mark Policy</a> and other <a href="#list-of-hacks">trademark hacks</a> that collaborative communities can adapt to protect their name and logo.</p>
       <p>Collaborative communities, like Linux and Wikimedia, are built on the principle that information should be shared and remixed. Some of their work have widely recognized names and logos. But if communities try to legally protect their names and logos, they face a challenge: trademark law requires some degree of restriction (or "quality control"), whereas communities expect their work to be free for anyone to use. This is a <a href="#difficulty">common source of difficulty</a> in collaborative communities. </p>
       <p>Until the trademark law evolves to accommodate collaborative work, communities can use the trademark hacks on this page to reconcile that conflict.</p>
+  </div>
+  <div class="main">
+    <p class="u-cf"></p>
+    <p class="anchorific"></p>
 
-    </div>
-
-    <div class="section alt">
-
-      <h2>What is a trademark?</h2>
-      <p><span class="word">TM</span> A community's name or logo is what we call the "mark." Trademark law can provide powerful protections for a mark. Here are some basics on trademark law:
+    <div class="section">
+      <p class="word">TM</p>
+      <h2>What's trademark?</h2>
+      <p>A community's name or logo is what we call the "mark." Trademark law can provide powerful protections for a mark. Here are some basics on trademark law:
       <ul>
         <li>Unlike copyright or patent, trademark law generally only applies when you actually use a name or logo, so don't try to be a <a href="http://en.wikipedia.org/wiki/Trademark_troll">trademark troll</a>!</li>
         <li>Marks that have no other meaning (like "<a href="http://en.wikipedia.org/wiki/Xkcd">XKCD</a>") get the strongest legal protection.</li>
@@ -44,9 +64,9 @@
 
     </div>
 
-    <div class="section">
+    <div class="section alt">
 
-      <h2>Why would communities need trademarks?</h2>
+      <h2>Why trademark?</h2>
 
       <p>The identity of a collaborative community is valuable. Trademark law may strengthen that identity by providing a legal right to:</p>
       <ul>
@@ -57,11 +77,11 @@
 
     </div>
 
-  <div class="section alt">
+  <div class="section">
+    <p class="word">TM->CM</p>
+    <h2 id="list-of-hacks">Protecting your mark</h2>
 
-    <h2 id="list-of-hacks">How do communities protect their name and logo?</h2>
-
-    <p><span class="word">TM->CM</span> Collaborative communities have come up with a few different "hacks" to overcome the challenge of using trademarks to protect collaborative projects. But there is no silver bullet and the hacks are often used in parallel depending on the needs of a community. Here are some things that communities may think about:</p>
+    <p>Collaborative communities have come up with a few different "hacks" to overcome the challenge of using trademarks to protect collaborative projects. But there is no silver bullet and the hacks are often used in parallel depending on the needs of a community. Here are some things that communities may think about:</p>
 
     <h3>Is the community ready for trademark registration? </h3>
     
@@ -92,9 +112,9 @@
 
   </div>
 
-  <div class="section">
+  <div class="section alt">
   
-    <h2>What is the Collaborative Mark Policy?</h2>
+    <h2>Collaborative Mark Policy</h2>
 
     <p>A trademark holder can state how a mark may be used in a public document. This is called a "trademark policy." The policy can explain: (1) how marks can be used without a trademark license; (2) when a license from the trademark holder is necessary; and (3) what uses are always prohibited.  </p>
 
@@ -140,9 +160,9 @@
 
   </div>
 
-  <div class="section alt">
+  <div class="section">
 
-    <h2>Other resources</h2>
+    <h2>Learn more</h2>
 
     <ul>
       <li>Our forthcoming law journal paper: <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2476779">Hacking Trademark Law for Collaborative Communities</a></li>
@@ -156,11 +176,7 @@
       <li>Trademark Manual of Examining Procedure <a href="http://tmep.uspto.gov/RDMS/detail/manual/TMEP/Oct2012/TMEP-1300d1e30.xml#/manual/TMEP/Oct2012/TMEP-1300d1e417.xml">Section 1304 on Collective Membership Mark</a>. </li>
     </ul>
 
-  </div>
-
-  <div class="section">
-
-    <h2 id="difficulty">Examples of disagreements</h2>
+    <h3 id="difficulty">Disagreements</h3>
     <ul>
       <li>Linux and various early trademark trolls</li>
       <li>Mozilla and Debian (also GNUzilla)</li>
@@ -182,12 +198,12 @@
 
   <div class="section alt">
 
-    <h2>How do I get involved?</h2>
+    <h2>Get involved</h2>
 
     <p>Start a <a href="https://github.com/collabmark/collabmark.org/issues">discussion on github</a>. More ways to participate are coming soon!</p>
 
   </div>
-
+</div>
   </div>
   <div class="footer">
     <p>Contact us:</p>
@@ -195,6 +211,7 @@
       <li>@<a href="https://twitter.com/yanatweets">yanatweets</a></li>
       <li>@<a href="https://twitter.com/sklaporte">sklaporte</a></li>
     </ul>
+    <p class="legal">This site uses <a href="http://www.google.com/analytics/">google analytics</a> to find out how many people visit this site and some related information that you can read about here. You can <a href="https://tools.google.com/dlpage/gaoptout">opt out of google analytics</a> by installing a browser add-on. Unless otherwise noted, all content is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.</p>
   </div>
 </body>
 </html>

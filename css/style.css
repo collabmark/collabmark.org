@@ -11,6 +11,14 @@ a {
   text-decoration: none;
   border-bottom: 1px dotted;
 }
+h2:before { 
+  content: ''; 
+  display: block; 
+  position: relative; 
+  width: 0; 
+  height: 5em; 
+  margin-top: -5em 
+}
 a:hover {
   color: red;
 }
@@ -24,10 +32,6 @@ a:hover {
   background:         linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* W3C */
 }
 .banner h1, .banner h2 {
-  max-width: 800px;
-  min-width: 650px;
-  margin: 0 auto;
-
   color: #fff;
 }
 .banner h1 {
@@ -40,9 +44,8 @@ a:hover {
   text-align: center;
   border-top: 1px solid #fff;
 }
-.banner p {
+.banner .tag p {
   max-width: 500px;
-  min-width: 650px;
   margin: auto;
   font: 300 1.5em "open sans";
   position: relative;
@@ -53,47 +56,52 @@ a:hover {
   background: #fff;
   border-radius: 25px;
 }
+.banner h2 {
+  font: 800 1.5em "merriweather";
+
+}
+.banner p, .banner h2 {
+  max-width: 960px;
+  margin: 1em auto;
+  color: #fff;
+}
 .banner a {
+  color: #fff;
+}
+.banner a:hover {
+  color: #ccc;
+}
+.banner .tag a {
   color: #3A6073;
 }
 sup {
   font: 300 0.5em "open sans";
 }
-.word {
-  font: 5em "Fredericka the Great", cursive;
-  float: right;
-  margin: 0 0.4em;
-  padding: 0;
-  line-height: 1.5em;
-}
-.container {
+.main {
   padding: 1em 0;
-  margin: 0;
 }
-.container p, 
-.container ul, 
-.container h2, 
-.container h3 {
-  max-width: 800px;
-  min-width: 650px;
-  margin: 0 auto;
-  padding: 0.5em 0.5em;
+.main p, 
+.main ul, 
+.main h2, 
+.main h3 {
+  max-width: 960px;
+  margin: 1em auto;
 }
-.container h2, 
-.container h3 {
+.main h2, 
+.main h3 {
   font: 800 1.5em "merriweather";
   color: #16222A;
-  border-bottom: 1px solid gray;
+  
 }
-.container h3 {
+.main h3 {
   font-size: 1.2em;
   color: #3A6073;
   border-bottom: none;
 }
-.container li {
+.main li {
   margin-left: 2em;
 }
-.container li {
+.main li {
   list-style: disc;
 }
 .section {
@@ -102,16 +110,33 @@ sup {
 .alt {
   background: #f0f0f0;
 }
+.word {
+  font: 5em "Fredericka the Great", cursive;
+  text-align: center;
+  margin: 0em auto !important;
+  padding: 0;
+}
 .footer {
   padding: 1em;
 }
-.footer ul, p {
-  margin-left: 65%;
+.footer ul, .footer p {
+  margin-left: 50%;
+}
+.footer p.legal {
+  max-width: 960px;
+  text-align: center;
+  margin: 1.5em auto;
+  color: #6E6E6E;
+  font-size: 10pt;
 }
 .anchorific {
-  <!--position: fixed;
-  top: 3em;
-  max-width: 240px;-->
+  padding-left: 3em;
+  background: #fff;
+  width: 100%;
+  margin-top: 0 !important;
+}
+.anchorific li {
+  display: inline;
 }
 .anchorific ul {
   list-style-type: none;
@@ -123,9 +148,25 @@ sup {
   display: none;
 }
 .anchorific li.active>a {
-  <!--border-right: #e54339 2px solid;-->
+  color: black;
+  /*border-right: #e54339 2px solid;*/
 }
 .anchorific li.active > ul {
-  display: inherit;
+  display: none;
 }
 
+a.anchor {
+  color: #D5D5D5;
+  border-bottom: none;
+}
+a.anchor:hover {
+  color: #007DBB;
+}
+#nav-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #fff;
+  height: 60px;
+  border-bottom: 1px solid #eee;
+}

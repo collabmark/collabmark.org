@@ -1,6 +1,6 @@
 Let's [hack trademarks for free culture](https://cyberlaw.stanford.edu/blog/2014/10/hacking-trademarks-free-culture).
 
-# Ideas
+# Ideas!
 
  - Why should open source and free culture projects consider trademarks?
    - Examples of naming or logo controversies in collaborative communities. 
