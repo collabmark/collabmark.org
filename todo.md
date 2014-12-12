@@ -6,3 +6,4 @@
 - [ ] cleanup list of difficulties
 - [ ] style TM / CM
 - [ ] write about page
+- [ ] annoucnement blog
