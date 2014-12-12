@@ -5,5 +5,5 @@
 - [ ] better headings
 - [ ] cleanup list of difficulties
 - [ ] style TM / CM
-- [ ] write about page
-- [X] annoucnement blog
+- [X] write about page
+- [ ] annoucnement blog
