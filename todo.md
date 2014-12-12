@@ -1,10 +1,10 @@
 # a few things todo
 
-- [ ] reformat intro
+- [X] reformat intro
 - [ ] griddify the layout + scrolling TOC
-- [ ] better headings
+- [X] better headings
 - [X] adding links to list of difficulties
 - [ ] cleanup list of difficulties
-- [ ] style TM / CM
+- [X] style TM / CM
 - [X] write about page
 - [ ] announcement blog
