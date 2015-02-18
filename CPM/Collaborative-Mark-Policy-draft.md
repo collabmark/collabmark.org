@@ -69,9 +69,6 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 
 ## 3. When you may use the Community marks without asking us 
 
-### 3.1. Use of trademarks on Community projects
-You may use and remix the Community marks on the Community projects as you please.
-
 ### 3.2. Community-focused events
 You may use the trademarks for events that promote our mission and are intended to be predominantly attended by Community community members. These are events like `[insert relevant events attended predominantly by community members]`. 
 
