@@ -1,3 +1,4 @@
 # Notes
-- https://nodejs.org/static/documents/trademark-policy.pdf
-- 
+
+ - https://nodejs.org/static/documents/trademark-policy.pdf
+ - 
