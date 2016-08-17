@@ -76,7 +76,7 @@ For example, you can put the `[insert name of community’s logo] on banners and
 
 `[Insert important trademark uses that promote the Community projects but are not predominantly visible only to community members]` require a quick license under Section 4.1. This provision also does not allow you to use the marks for fundraising. 
 
-### 3.3. Outreach and recruiting new editors 
+### 3.3. Outreach and recruiting new volunteers 
 You may use the marks consistent with our mission to educate people about the Community projects and to recruit new volunteers, as long as you make it clear that you do not work for the Trademark steward. You can create educational material or banners to decorate a public fair stand or to publicize an `[relevant event]`. But, please don’t sell any of them. 
 
 This provision does not allow you to use the marks for fundraising. 
