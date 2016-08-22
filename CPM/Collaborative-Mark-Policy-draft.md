@@ -194,7 +194,7 @@ You don’t need to contact us if your mimicking site is clearly a parody.
 If you create a mirror, make sure to comply with the relevant licenses for the content. Avoid copying links to legal policies and contact details that are unique for the Community projects. Please don’t use the Community marks in a mirror of a Community site.
 
 ### 5.2. Linking to non-Trademark steward sites
-You may use Community marks to link to Community projects only. Please refer to Section 3.5.4 if you want to link to a Community project from your website.
+You may use Community marks to link to Community projects only. Please refer to Section 3.4.4 if you want to link to a Community project from your website.
 
 ### 5.3. Misrepresentation
 When you use a Community mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the Trademark steward. This section also applies when you are granted a license to use a mark that doesn’t permit you to suggest such an endorsement.
