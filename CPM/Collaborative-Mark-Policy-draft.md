@@ -69,48 +69,48 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 
 ## 3. When you may use the Community marks without asking us 
 
-### 3.2. Community-focused events
+### 3.1. Community-focused events
 You may use the trademarks for events that promote our mission and are intended to be predominantly attended by Community community members. These are events like `[insert relevant events attended predominantly by community members]`. 
 
 For example, you can put the `[insert name of community’s logo] on banners and posters at an [relevant event attended predominantly by community members]` you've organized. 
 
 `[Insert important trademark uses that promote the Community projects but are not predominantly visible only to community members]` require a quick license under Section 4.1. This provision also does not allow you to use the marks for fundraising. 
 
-### 3.3. Outreach and recruiting new volunteers 
+### 3.2. Outreach and recruiting new volunteers 
 You may use the marks consistent with our mission to educate people about the Community projects and to recruit new volunteers, as long as you make it clear that you do not work for the Trademark steward. You can create educational material or banners to decorate a public fair stand or to publicize an `[relevant event]`. But, please don’t sell any of them. 
 
 This provision does not allow you to use the marks for fundraising. 
 
-### 3.4. Discussing something other than Community projects (fair use)
+### 3.3. Discussing something other than Community projects (fair use)
 Wordmarks can sometimes have a primary meaning, in addition to representing a brand (like the words “apple” or “facebook”). Our wordmarks were not real words before our projects were created. But we will interpret fair use broadly to include the use of our wordmarks when you really mean to talk about something other than the Community projects.
 
 
-### 3.5. Refer to Community projects (nominative use)
+### 3.4. Refer to Community projects (nominative use)
 You can use the non-stylized wordmarks (e.g. `["Wikipedia"]`) to describe:
  - A Community project or another aspect of the movement in a text (e.g. `[“I love reading about new things on Wikipedia”]`).
  - Derivative work of a Community project in a way that is not misleading (e.g. `[“the encyclopedic content on this site is derived from Wikipedia”]`).
 
 Here are some specific cases of nominative use:
 
-#### 3.5.1. News reporting
+#### 3.4.1. News reporting
 
 You may use the Community marks to make truthful statements about the Community projects in news reports and commentary.
 
-#### 3.5.2. Personal blogs and social media
+#### 3.4.2. Personal blogs and social media
 You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t do it to imply endorsement by or affiliation to the Trademark steward. To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You should also not use the marks in the name of your blog or in your social media username. 
 
-#### 3.5.3. Artistic, scientific, literary, political, and other non-commercial uses 
+#### 3.4.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You can use the Community marks to discuss the Community projects in artistic, scientific, literary, and political work. 
 
 But please send us a request if you want to place a Community mark on the cover of your book, display a Community mark in a movie, or organize an event or presentation that could be interpreted to be endorsed by the Trademark steward. For more information, please see the portion of this policy on “special uses that require permission” (Section 4).
 
 You may also use the marks in satire or jokes. To avoid confusing users that your work is affiliated with the Community projects, it may be helpful to mark your work as “satire” or “parody.”
 
-#### 3.5.4. Links to Community projects
+#### 3.4.4. Links to Community projects
 
 You may use the marks on your own website as a hyperlink to the Community projects. `[If relevant: "The use of logos in hyperlinks should follow the Visual Identity Guidelines.  For example, the marks may be resized, but not modified in any other way."]`
 
-### 3.6. Make your own branded stuff
+### 3.5. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. `[If relevant: "Make sure that your design follows the Visual Identity Guidelines."]` If you want to sell your branded stuff, you can request a license under Section 4.6. 
 
 ## 4. Special uses that require permission
@@ -163,7 +163,8 @@ When you get a trademark license, it will only apply to the specific publication
 ### 4.5. Movies and TV shows
 You need a trademark license if you want to use the Community’s logo in a movie, TV show episode, or online production.
 
-[You should include the following information when requesting a license to use our marks in a movie or TV show.]                                                                                                    
+[You should include the following information when requesting a license to use our marks in a movie or TV show.]
+
  1. What is the proposed title of the movie or TV show?
  2. Contact information (and Community username if relevant) for the applicant.
  3. The names of the screenwriter, director, producer, distributor, actors, and any interviewees (for documentaries).
@@ -193,7 +194,7 @@ You don’t need to contact us if your mimicking site is clearly a parody.
 If you create a mirror, make sure to comply with the relevant licenses for the content. Avoid copying links to legal policies and contact details that are unique for the Community projects. Please don’t use the Community marks in a mirror of a Community site.
 
 ### 5.2. Linking to non-Trademark steward sites
-You may use Community marks to link to Community projects only. Please refer to Section 3.5.4 if you want to link to a Community project from your website.
+You may use Community marks to link to Community projects only. Please refer to Section 3.4.4 if you want to link to a Community project from your website.
 
 ### 5.3. Misrepresentation
 When you use a Community mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the Trademark steward. This section also applies when you are granted a license to use a mark that doesn’t permit you to suggest such an endorsement.
