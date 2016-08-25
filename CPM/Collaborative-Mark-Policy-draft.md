@@ -88,7 +88,7 @@ Wordmarks can sometimes have a primary meaning, in addition to representing a br
 ### 3.5. Refer to Community projects (nominative use)
 You can use the non-stylized wordmarks (e.g. `["Wikipedia"]`) to describe:
  - A Community project or another aspect of the movement in a text (e.g. `[“I love reading about new things on Wikipedia”]`).
- - Derivative work of a Community project in a way that is not misleading (e.g. `[“the encyclopedic content on this site is derived from Wikipedia”]`).
+ - A derivative work of a Community project in a way that is not misleading (e.g. `[“the encyclopedic content on this site is derived from Wikipedia”]`).
 
 Here are some specific cases of nominative use:
 
