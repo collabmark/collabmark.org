@@ -82,8 +82,7 @@ You may use the marks consistent with our mission to educate people about the Co
 This provision does not allow you to use the marks for fundraising. 
 
 ### 3.4. Discussing something other than Community projects (fair use)
-Wordmarks can sometimes have a primary meaning, in addition to representing a brand (like the words “apple” or “facebook”). Our wordmarks were not real words before our projects were created. But we will interpret fair use broadly to include the use of our wordmarks when you really mean to talk about something other than the Community projects.
-
+Wordmarks can sometimes have a primary meaning, in addition to representing a brand (like the words “apple” or “facebook”). Our wordmarks were not real words before our projects were created. But we will interpret fair use broadly to permit the use of our wordmarks when you really mean to talk about something other than the Community projects.
 
 ### 3.5. Refer to Community projects (nominative use)
 You can use the non-stylized wordmarks (e.g. `["Wikipedia"]`) to describe:
