@@ -26,7 +26,7 @@ This policy regulates the use of marks held by the `[organization or individual 
 This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a member of Community or an unrelated individual or organization. 
 
 #### 1.4.1. Community members
-The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
+The community includes everyone who contributes to a community project to support our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
 
 The members of the community share a common mission. They are the core of the movement. Accordingly, community members are free to use all Community marks on the Community projects and for community-focused events, as well as outreach work without a trademark license. Community members can also easily fill out a quick license for certain other community uses. And we generally give priority to community requests for uses that require an ordinary trademark license.
 
