@@ -110,6 +110,9 @@ You may also use the marks in satire or jokes. To avoid confusing users that you
 
 You may use the marks on your own website as a hyperlink to the Community projects. `[If relevant: "The use of logos in hyperlinks should follow the Visual Identity Guidelines.  For example, the marks may be resized, but not modified in any other way."]`
 
+#### 3.5.5. Attribution
+You may use the wordmarks as necessary to comply with the attribution requirements imposed by the Community's copyright licensing terms. For more information on our copyright license, and how to credit us, see [the Community's website](https://community.org/copyright).
+
 ### 3.6. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. `[If relevant: "Make sure that your design follows the Visual Identity Guidelines."]` If you want to sell your branded stuff, you can request a license under Section 4.6. 
 
