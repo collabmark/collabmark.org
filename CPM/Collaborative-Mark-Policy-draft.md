@@ -228,7 +228,7 @@ Please don't hesitate to contact us at `[email address]` if you are not sure whe
 
 ## License notes
 
-The Collaborative Mark Policy is a derivative of the Wikimedia Trademark Policy, by Wikimedia contributors, under the Creative Commons Attribution ShareAlike 3.0 (unported) license (CC BY-SA 3.0). 
+The Collaborative Mark Policy is a derivative of the Wikimedia Trademark Policy, by Yana Welinder, Stephen LaPorte, and Wikimedia contributors, under the Creative Commons Attribution ShareAlike 3.0 (unported) license (CC BY-SA 3.0).
 
 The Wikimedia Trademark Policy is available at https://wikimediafoundation.org/wiki/Trademark_policy.
 
