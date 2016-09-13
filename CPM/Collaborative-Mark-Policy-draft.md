@@ -65,7 +65,8 @@ The notice should appear near the first use of a Community mark. One notice is e
 
 If the mark will primarily appear on a mobile screen or another medium with limited visual space, you may instead use a trademark symbol (™) with the mark to show that it is a Community trademark. `[If relevant: "For size and location of the trademark symbol, please see the Visual Identity Guidelines."]` When you use a symbol due to limited space and there are additional pages to your material, please include the notice in the text of a prominent page (e.g. most mobile apps have an “about us” section and may display terms during installation).
 
-Regardless of whether you use a notice or a trademark symbol to identify your use of Community marks, make sure that your use does not suggest endorsement by or affiliation with the Trademark steward. 
+### 2.3. No confusion, endorsement, or affiliation
+Your use of the marks may not confuse users by suggesting endorsement by, or affiliation with, the Trademark steward. Notices such as those in Sec. 2.2 can be used to help you meet this requirement.
 
 ## 3. When you may use the Community marks without asking us 
 
