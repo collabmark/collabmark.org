@@ -153,7 +153,7 @@ You need a trademark license if you want to use a Community mark in a publicatio
  3. Who is the author, editor, and publisher of the publication?
  4. For fiction, what is the storyline?
  5. How do you want to use and discuss the mark?
- 6. Include printouts of the pages in your publication that includes or discusses the mark. (For a book, where in the book will the mark appear?)
+ 6. Include printouts of the pages in your publication that include or discuss the mark. (For a book, where in the book will the mark appear?)
  7. If your publication will display a screenshot of a Community project, please include that as well. 
  8. Will the publication be in hard copy, an e-book, or some other type of medium? 
  9. What is the print run and distribution area for the publication? How many editions will it have?
