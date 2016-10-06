@@ -97,7 +97,7 @@ Here are some specific cases of nominative use:
 You may use the Community marks to make truthful statements about the Community projects in news reports and commentary.
 
 #### 3.5.2. Personal blogs and social media
-You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t do it to imply endorsement by or affiliation to the Trademark steward. To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You should also not use the marks in the name of your blog or in your social media username. 
+You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t do it to imply endorsement by or affiliation to the Trademark steward. To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You should also not use the marks in the name of your blog or in your social media username, unless you make clear in an appropriate "about" or "bio" field that the account is not an official or endorsed by the steward and the name is clearly not confusing. (@ILoveCommunity is OK; @IAmCommunitySteward is not.)
 
 #### 3.5.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You can use the Community marks to discuss the Community projects in artistic, scientific, literary, and political work. 
