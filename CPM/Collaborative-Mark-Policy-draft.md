@@ -19,7 +19,7 @@ This policy applies to all trademarks of the Community. The trademarks are both 
 ### 1.2. “Use” of the Community marks
 This policy applies whenever you want to use the Community marks. Section 2 of this policy applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by `[insert groups/organizations recognized by the community, if any (e.g. user groups)]`. If some term in your trademark license is inconsistent with this policy, you should follow the license terms. 
 
-### 2.3. “We” or the “Trademark steward”
+### 1.3. “We” or the “Trademark steward”
 This policy regulates the use of marks held by the `[organization or individual that holds the marks]`, who acts as a Trademark steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
 
 ### 1.4. “You”
