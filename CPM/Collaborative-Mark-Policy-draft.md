@@ -11,7 +11,7 @@ Our mission relies on and encourages free speech. This trademark policy embraces
 
 To further make it easier for community members to use the marks, this policy introduces some creative trademark solutions. For example, it empowers community members to use the Community marks without a trademark license for community-focused events and outreach work. The policy further introduces a  “quick license” for other common uses that community members can quickly fill out and email to us.  
 
-## 1. What does this policy apply to?
+## 1. Policy definitions and applicability
 
 ### 1.1. The “Community marks”
 This policy applies to all trademarks of the Community. The trademarks are both registered and unregistered trademarks, including non-stylized wordmarks and the trade dress of each Community project. In this policy, we refer to them as the “Community marks” or just “marks.” Here is a non-exclusive list of our trademarks: `[list wordmarks and logos]`.
