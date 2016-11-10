@@ -208,23 +208,17 @@ We may revoke the right to use the Community marks under this policy at any time
 
 ## 7. Revision and Translation of the trademark policy
 
-### 7.1.
+### 7.1. Revisions
 This trademark policy can be revised as follows:
+* We will give notice of proposed revisions on the Community projects and in an email to `[relevant community mailing list]`. The community can then comment for at least 30 days.
+* For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
+* This section does not apply to the user-friendly summary, the FAQs, or the purpose statement. They are not part of this trademark policy and can always be revised without notice.
 
-#### 7.1.1.
-We will give notice of proposed revisions on the Community projects and in an email to `[relevant community mailing list]`. The community can then comment for at least 30 days.
-
-#### 7.1.2.
-For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
-
-This section does not apply to the user-friendly summary, the FAQs, the purpose statement for the trademark policy, the trademark request form, and the violation reporting form. They are not part of this trademark policy and can always be revised without notice.
-
-### 7.2. `[If relevant: Translation of the trademark policy`
+### 7.2. `[If relevant: Translations
 `If some term in a translation of this trademark policy is inconsistent with the original English version of this policy, you should follow the original English version.]`
 
 ### 7.3. Questions
 Please don't hesitate to contact us at `[email address]` if you are not sure whether your use is in compliance with this policy or local trademark laws.
-
 
 ## License notes
 
