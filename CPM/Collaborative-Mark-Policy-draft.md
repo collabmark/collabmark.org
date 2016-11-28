@@ -59,7 +59,7 @@ You may create remixes of the Community logos on the Community projects.  But ou
 ### 2.2. Notice or trademark symbol
 When reasonable, please include this notice when you use a mark outside of the Community projects: 
 
-“Wordmark / name of logo as listed `[insert link to list of community’s trademarks]` is a trademark of the `[Trademark steward]`  and is used with the permission of the [Trademark steward]. We are not endorsed by or affiliated with the `[Trademark steward]`.” 
+> Wordmark / name of logo as listed `[insert link to list of community’s trademarks]` is a trademark of the `[Trademark steward]`  and is used with the permission of the [Trademark steward]. We are not endorsed by or affiliated with the `[Trademark steward]`. 
 
 The notice should appear near the first use of a Community mark. One notice is enough if you display multiple marks, provided the notice refers to all of them. 
 
